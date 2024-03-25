@@ -1,4 +1,3 @@
-import React from 'react'
 import Layout from '../layout/Layout'
 import { useParams } from 'react-router-dom'
 const Project = () => {
